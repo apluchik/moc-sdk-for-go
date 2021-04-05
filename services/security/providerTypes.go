@@ -68,5 +68,6 @@ var (
 	VipPoolType                ProviderType = "VipPool"
 	MacPoolType                ProviderType = "MacPool"
 	EtcdClusterType            ProviderType = "EtcdCluster"
+	EtcdServerType             ProviderType = "EtcdServer"
 	BareMetalMachineType       ProviderType = "BareMetalMachine"
 )
